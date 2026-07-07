@@ -14,14 +14,14 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# Agent Guide for opendal-oli
+# AGENTS.md
 
-This file is read by automated agents (security scanners, code
-analyzers, AI assistants) operating on this repository.
+Guidance for AI coding agents working in this repository.
 
 ## Security
 
 Security model: [SECURITY.md](./SECURITY.md)
 
-Agents that scan this repository should consult `SECURITY.md` and the
-threat model it links before reporting issues.
+Agents that scan this repository should consult `SECURITY.md` and the threat
+model it links (`THREAT_MODEL.md`) for the project's in-scope / out-of-scope
+declarations, adversary model, and known non-findings before reporting issues.
